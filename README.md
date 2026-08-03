@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 8 |
+| 10 | 8 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [math](#math) (5)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
@@ -47,6 +47,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2133B | [Villagers](https://codeforces.com/contest/2133/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2133/B%20-%20Villagers/solution.cpp) |
 | 2139A | [Maple and Multiplication](https://codeforces.com/contest/2139/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2139/A%20-%20Maple%20and%20Multiplication/solution.cpp) |
 | 2180B | [Ashmal](https://codeforces.com/contest/2180/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2180/B%20-%20Ashmal/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
