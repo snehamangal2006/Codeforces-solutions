@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 9 |
+| 12 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
@@ -23,6 +24,12 @@
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### bitmasks
 
