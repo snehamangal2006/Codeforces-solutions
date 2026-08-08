@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 11 |
+| 27 | 11 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [games](#games) (2)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [implementation](#implementation) (3)
-- [math](#math) (13)
+- [math](#math) (14)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (3)
 - [strings](#strings) (3)
@@ -70,6 +70,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
@@ -94,6 +95,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
