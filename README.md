@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 14 |
+| 49 | 14 |
 
 ---
 
@@ -21,9 +21,9 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (17)
 - [implementation](#implementation) (10)
-- [math](#math) (25)
+- [math](#math) (26)
 - [number theory](#number-theory) (7)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (5)
 - [two pointers](#two-pointers) (2)
 
@@ -161,6 +161,7 @@
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2202A | [Parkour Design](https://codeforces.com/contest/2202/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2202/A%20-%20Parkour%20Design/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### number theory
 
@@ -182,6 +183,7 @@
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
