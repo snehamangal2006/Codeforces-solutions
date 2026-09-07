@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 15 |
+| 64 | 15 |
 
 ---
 
@@ -20,10 +20,10 @@
 - [dp](#dp) (2)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (30)
+- [greedy](#greedy) (31)
 - [implementation](#implementation) (14)
-- [math](#math) (32)
-- [number theory](#number-theory) (9)
+- [math](#math) (33)
+- [number theory](#number-theory) (10)
 - [sortings](#sortings) (7)
 - [strings](#strings) (5)
 - [two pointers](#two-pointers) (2)
@@ -111,6 +111,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
@@ -165,6 +166,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
@@ -202,6 +204,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
