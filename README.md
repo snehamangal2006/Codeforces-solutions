@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 67 | 15 |
+| 68 | 15 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (33)
 - [implementation](#implementation) (14)
-- [math](#math) (36)
+- [math](#math) (37)
 - [number theory](#number-theory) (12)
 - [sortings](#sortings) (7)
 - [strings](#strings) (5)
@@ -168,6 +168,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/snehamangal2006/Codeforces-solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
